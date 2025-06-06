@@ -1,1 +1,1 @@
-## Project Functionalities
+# Project Functionalities
